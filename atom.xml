@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://rexec.github.io</id>
+    <title>Rexec</title>
+    <updated>2024-08-23T08:44:32.669Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://rexec.github.io"/>
+    <link rel="self" href="https://rexec.github.io/atom.xml"/>
+    <subtitle>得其法则事半功倍</subtitle>
+    <logo>https://rexec.github.io/images/avatar.png</logo>
+    <icon>https://rexec.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2024, Rexec</rights>
+    <entry>
+        <title type="html"><![CDATA[Go]]></title>
+        <id>https://rexec.github.io/post/go/</id>
+        <link href="https://rexec.github.io/post/go/">
+        </link>
+        <updated>2024-07-17T06:26:44.000Z</updated>
+    </entry>
+</feed>
